@@ -1,0 +1,33 @@
+:root {
+	--main: #0c0c0c;
+	--accent: #3350e9;
+	--background: #fbfbfb;
+	--cards: #f3f3f3;
+
+    --font-family: 'Gilroy', sans-serif;
+}
+
+.container {
+    padding: 0 20px;
+    margin: 0 auto;
+    max-width: 375px;
+    width: 100%;
+}
+@media (min-width: 768px) {
+    .container {
+        padding: 0 32px;
+        max-width: 768px;
+    }
+}
+@media (min-width: 1280px) {
+    .container {
+        padding: 0 65px;
+        max-width: 1280px;
+    }
+}
+
+/* HEADER STYLES */
+
+
+
+/* HEADER STYLES */
